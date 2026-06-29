@@ -34,11 +34,11 @@ A 4-layer PCB designed in KiCad for an ATmega328P-AU based microcontroller data 
 
 ```
 .
-├── README.md
 ├── .gitignore
+├── MCU-Datalogger.kicad_pcb
 ├── MCU-Datalogger.kicad_pro
-├── MCU-Datalogger.kicad_sch 
-└── MCU-Datalogger.kicad_pcb
+├── MCU-Datalogger.kicad_sch
+└── README.md
 ```
 
 ## Verification
